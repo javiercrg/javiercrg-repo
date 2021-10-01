@@ -1,0 +1,6 @@
+[javiercrg-devel]
+name=javiercrg repository devel
+baseurl=http://rbrepo.redborder.lan/javiercrg/
+gpgcheck=0
+enabled=1
+sslcheck=0
